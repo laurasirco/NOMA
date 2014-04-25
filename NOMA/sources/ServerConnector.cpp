@@ -14,7 +14,6 @@ ServerConnector::ServerConnector() {
     handler = curl_easy_init();
     if (handler == NULL) {
         cerr << "Unable to initialize cURL interface" << endl;
-        return 1;
     }
 }
 
