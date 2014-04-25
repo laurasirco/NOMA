@@ -1,0 +1,36 @@
+Demo 8.2
+{
+  "name": "Demo 8.2",
+  "mapName": "Demo8.2/all",
+  "folder": "Demo8.2/",
+  "numCitizen": 3,
+  "moodValues": [6,15,3],
+  "trustValues": [3,10,2],
+  "talkValues": [1,7,1],
+  "reachableWorlds": [],
+  "citizenData": [
+    {
+      "meshName" : "Demo8.2/npc.obj",
+      "textureName": "",
+      "relativeNum": 5
+    }
+  ],
+  "script": [
+    {
+      "type": 1,
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "content": "Primera frase de ciudadano.",
+      "audioFile": "audio.ogg"
+    },
+    {
+      "type": 2,
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "content": "Frase irrelevante.",
+      "audioFile": "audio.ogg"
+    }
+  ]
+}

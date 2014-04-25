@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="89">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <logicalFolder name="f2" displayName="Engines" projectFiles="true">
+        <logicalFolder name="f3" displayName="GUI" projectFiles="true">
+          <itemPath>headers/GUIBackground.h</itemPath>
+          <itemPath>headers/GUIButton.h</itemPath>
+          <itemPath>headers/GUIElement.h</itemPath>
+          <itemPath>headers/GUIOrbit.h</itemPath>
+          <itemPath>headers/GUISlider.h</itemPath>
+          <itemPath>headers/GUIText.h</itemPath>
+          <itemPath>headers/HUD.h</itemPath>
+        </logicalFolder>
+        <logicalFolder name="f2" displayName="Physics" projectFiles="true">
+          <itemPath>headers/GLDebugDraw.h</itemPath>
+          <itemPath>headers/PhysicsEngine.h</itemPath>
+        </logicalFolder>
+        <logicalFolder name="f1" displayName="TAGEngine" projectFiles="true">
+          <logicalFolder name="f1" displayName="Shadows" projectFiles="true">
+            <itemPath>headers/TShadowMap.h</itemPath>
+          </logicalFolder>
+          <itemPath>headers/Matrices.h</itemPath>
+          <itemPath>headers/TAGConnector.h</itemPath>
+          <itemPath>headers/TAnimatedMesh.h</itemPath>
+          <itemPath>headers/TCamera.h</itemPath>
+          <itemPath>headers/TColor.h</itemPath>
+          <itemPath>headers/TEntity.h</itemPath>
+          <itemPath>headers/TFBO.h</itemPath>
+          <itemPath>headers/TLODMesh.h</itemPath>
+          <itemPath>headers/TLight.h</itemPath>
+          <itemPath>headers/TMatrix4x4.h</itemPath>
+          <itemPath>headers/TMesh.h</itemPath>
+          <itemPath>headers/TNode.h</itemPath>
+          <itemPath>headers/TParticles.h</itemPath>
+          <itemPath>headers/TResource.h</itemPath>
+          <itemPath>headers/TResourceAnimatedMesh.h</itemPath>
+          <itemPath>headers/TResourceAnimatedMeshContainer.h</itemPath>
+          <itemPath>headers/TResourceFont.h</itemPath>
+          <itemPath>headers/TResourceLODMesh.h</itemPath>
+          <itemPath>headers/TResourceManager.h</itemPath>
+          <itemPath>headers/TResourceMesh.h</itemPath>
+          <itemPath>headers/TResourceTexture.h</itemPath>
+          <itemPath>headers/TShaderProgram.h</itemPath>
+          <itemPath>headers/TTransformation.h</itemPath>
+          <itemPath>headers/Vectors.h</itemPath>
+          <itemPath>headers/anorms.h</itemPath>
+          <itemPath>headers/anormtab.h</itemPath>
+          <itemPath>headers/texture.h</itemPath>
+        </logicalFolder>
+        <itemPath>headers/AudioEngine.h</itemPath>
+        <itemPath>headers/EventManager.h</itemPath>
+        <itemPath>headers/Freetype.h</itemPath>
+        <itemPath>headers/GraphicConnector.h</itemPath>
+        <itemPath>headers/GraphicEngine.h</itemPath>
+        <itemPath>headers/ResourceManager.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f5" displayName="Environment" projectFiles="true">
+        <itemPath>headers/CalmState.h</itemPath>
+        <itemPath>headers/EnvState.h</itemPath>
+        <itemPath>headers/Environment.h</itemPath>
+        <itemPath>headers/NeutralState.h</itemPath>
+        <itemPath>headers/TenseState.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f4" displayName="Game Entities" projectFiles="true">
+        <logicalFolder name="f1" displayName="Citizen FSM" projectFiles="true">
+          <itemPath>headers/CitizenState.h</itemPath>
+          <itemPath>headers/FlockingState.h</itemPath>
+          <itemPath>headers/FollowNomaState.h</itemPath>
+          <itemPath>headers/PathwalkingState.h</itemPath>
+          <itemPath>headers/StandState.h</itemPath>
+          <itemPath>headers/TalkToNomaState.h</itemPath>
+          <itemPath>headers/WalkToPlaceState.h</itemPath>
+        </logicalFolder>
+        <itemPath>headers/BaseGameEntity.h</itemPath>
+        <itemPath>headers/Character.h</itemPath>
+        <itemPath>headers/Citizen.h</itemPath>
+        <itemPath>headers/DynamicEntity.h</itemPath>
+        <itemPath>headers/FlockingBehaviors.h</itemPath>
+        <itemPath>headers/MovingEntity.h</itemPath>
+        <itemPath>headers/Noma.h</itemPath>
+        <itemPath>headers/SteeringBehaviors.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f1" displayName="GState" projectFiles="true">
+        <itemPath>headers/BadgetState.h</itemPath>
+        <itemPath>headers/BlankState.h</itemPath>
+        <itemPath>headers/GameState.h</itemPath>
+        <itemPath>headers/LoginState.h</itemPath>
+        <itemPath>headers/MainMenuState.h</itemPath>
+        <itemPath>headers/MapState.h</itemPath>
+        <itemPath>headers/OptionMenuState.h</itemPath>
+        <itemPath>headers/PopupState.h</itemPath>
+        <itemPath>headers/RegisterState.h</itemPath>
+        <itemPath>headers/State.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f3" displayName="Pathfinding" projectFiles="true">
+        <itemPath>headers/PEdge.h</itemPath>
+        <itemPath>headers/PGraph.h</itemPath>
+        <itemPath>headers/PNode.h</itemPath>
+        <itemPath>headers/PRoute.h</itemPath>
+        <itemPath>headers/Path.h</itemPath>
+      </logicalFolder>
+      <itemPath>headers/Game.h</itemPath>
+      <itemPath>headers/Object.h</itemPath>
+      <itemPath>headers/Parser.h</itemPath>
+      <itemPath>headers/ScriptLine.h</itemPath>
+      <itemPath>headers/World.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SimpleJSON" displayName="SimpleJSON" projectFiles="true">
+      <itemPath>SimpleJSON/JSON.cpp</itemPath>
+      <itemPath>SimpleJSON/JSON.h</itemPath>
+      <itemPath>SimpleJSON/JSONValue.cpp</itemPath>
+      <itemPath>SimpleJSON/JSONValue.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <logicalFolder name="f2" displayName="Engines" projectFiles="true">
+        <logicalFolder name="f3" displayName="GUI" projectFiles="true">
+          <itemPath>sources/GUIBackground.cpp</itemPath>
+          <itemPath>sources/GUIButton.cpp</itemPath>
+          <itemPath>sources/GUIElement.cpp</itemPath>
+          <itemPath>sources/GUIOrbit.cpp</itemPath>
+          <itemPath>sources/GUISlider.cpp</itemPath>
+          <itemPath>sources/GUIText.cpp</itemPath>
+          <itemPath>sources/HUD.cpp</itemPath>
+        </logicalFolder>
+        <logicalFolder name="f2" displayName="Physics" projectFiles="true">
+          <itemPath>sources/PhysicsEngine.cpp</itemPath>
+        </logicalFolder>
+        <logicalFolder name="f1" displayName="TAGEngine" projectFiles="true">
+          <logicalFolder name="f1" displayName="Shadows" projectFiles="true">
+            <itemPath>sources/TShadowMap.cpp</itemPath>
+          </logicalFolder>
+          <itemPath>sources/Matrices.cpp</itemPath>
+          <itemPath>sources/TAGConnector.cpp</itemPath>
+          <itemPath>sources/TAnimatedMesh.cpp</itemPath>
+          <itemPath>sources/TCamera.cpp</itemPath>
+          <itemPath>sources/TColor.cpp</itemPath>
+          <itemPath>sources/TEntity.cpp</itemPath>
+          <itemPath>sources/TFBO.cpp</itemPath>
+          <itemPath>sources/TLODMesh.cpp</itemPath>
+          <itemPath>sources/TLight.cpp</itemPath>
+          <itemPath>sources/TMatrix4x4.cpp</itemPath>
+          <itemPath>sources/TMesh.cpp</itemPath>
+          <itemPath>sources/TNode.cpp</itemPath>
+          <itemPath>sources/TParticles.cpp</itemPath>
+          <itemPath>sources/TResource.cpp</itemPath>
+          <itemPath>sources/TResourceAnimatedMesh.cpp</itemPath>
+          <itemPath>sources/TResourceAnimatedMeshContainer.cpp</itemPath>
+          <itemPath>sources/TResourceFont.cpp</itemPath>
+          <itemPath>sources/TResourceLODMesh.cpp</itemPath>
+          <itemPath>sources/TResourceManager.cpp</itemPath>
+          <itemPath>sources/TResourceMesh.cpp</itemPath>
+          <itemPath>sources/TResourceTexture.cpp</itemPath>
+          <itemPath>sources/TShaderProgram.cpp</itemPath>
+          <itemPath>sources/TTransformation.cpp</itemPath>
+        </logicalFolder>
+        <itemPath>sources/AudioEngine.cpp</itemPath>
+        <itemPath>sources/EventManager.cpp</itemPath>
+        <itemPath>sources/Freetype.cpp</itemPath>
+        <itemPath>sources/GraphicConnector.cpp</itemPath>
+        <itemPath>sources/GraphicEngine.cpp</itemPath>
+        <itemPath>sources/ResourceManager.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f5" displayName="Environment" projectFiles="true">
+        <itemPath>sources/CalmState.cpp</itemPath>
+        <itemPath>sources/EnvState.cpp</itemPath>
+        <itemPath>sources/Environment.cpp</itemPath>
+        <itemPath>sources/NeutralState.cpp</itemPath>
+        <itemPath>sources/TenseState.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f4" displayName="Game Entities" projectFiles="true">
+        <logicalFolder name="f1" displayName="Citizen FSM" projectFiles="true">
+          <itemPath>sources/CitizenState.cpp</itemPath>
+          <itemPath>sources/FlockingState.cpp</itemPath>
+          <itemPath>sources/FollowNomaState.cpp</itemPath>
+          <itemPath>sources/PathwalkingState.cpp</itemPath>
+          <itemPath>sources/StandState.cpp</itemPath>
+          <itemPath>sources/TalkToNomaState.cpp</itemPath>
+          <itemPath>sources/WalkToPlaceState.cpp</itemPath>
+        </logicalFolder>
+        <itemPath>sources/BaseGameEntity.cpp</itemPath>
+        <itemPath>sources/Character.cpp</itemPath>
+        <itemPath>sources/Citizen.cpp</itemPath>
+        <itemPath>sources/DynamicEntity.cpp</itemPath>
+        <itemPath>sources/FlockingBehaviors.cpp</itemPath>
+        <itemPath>sources/MovingEntity.cpp</itemPath>
+        <itemPath>sources/Noma.cpp</itemPath>
+        <itemPath>sources/Path.cpp</itemPath>
+        <itemPath>sources/SteeringBehaviors.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f1" displayName="GState" projectFiles="true">
+        <itemPath>sources/BadgetState.cpp</itemPath>
+        <itemPath>sources/BlankState.cpp</itemPath>
+        <itemPath>sources/GameState.cpp</itemPath>
+        <itemPath>sources/LoginState.cpp</itemPath>
+        <itemPath>sources/MainMenuState.cpp</itemPath>
+        <itemPath>sources/MapState.cpp</itemPath>
+        <itemPath>sources/OptionMenuState.cpp</itemPath>
+        <itemPath>sources/PopupState.cpp</itemPath>
+        <itemPath>sources/RegisterState.cpp</itemPath>
+        <itemPath>sources/State.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f3" displayName="Pathfinding" projectFiles="true">
+        <itemPath>sources/PEdge.cpp</itemPath>
+        <itemPath>sources/PGraph.cpp</itemPath>
+        <itemPath>sources/PNode.cpp</itemPath>
+        <itemPath>sources/PRoute.cpp</itemPath>
+      </logicalFolder>
+      <itemPath>sources/Game.cpp</itemPath>
+      <itemPath>sources/Object.cpp</itemPath>
+      <itemPath>sources/Parser.cpp</itemPath>
+      <itemPath>sources/ScriptLine.cpp</itemPath>
+      <itemPath>sources/World.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>SimpleJSON</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <architecture>1</architecture>
+          <commandlineTool>g++</commandlineTool>
+          <commandLine>-m32 -arch i386 -IIrrlicht/include -IIrrklang/include</commandLine>
+        </ccTool>
+        <linkerTool>
+          <linkerLibItems>
+            <linkerLibLibItem>stdc++.6.0.9</linkerLibLibItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+      <item path="SimpleJSON/JSON.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SimpleJSON/JSON.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SimpleJSON/JSONValue.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SimpleJSON/JSONValue.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/AudioEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/BadgetState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/BaseGameEntity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/BlankState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/CalmState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Character.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Citizen.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/CitizenState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/DynamicEntity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/EnvState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Environment.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/EventManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/FlockingBehaviors.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/FlockingState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/FollowNomaState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Freetype.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GLDebugDraw.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIBackground.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIButton.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIElement.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIOrbit.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUISlider.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIText.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Game.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GameState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GraphicConnector.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GraphicEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/HUD.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/LoginState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/MainMenuState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/MapState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Matrices.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/MovingEntity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/NeutralState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Noma.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Object.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/OptionMenuState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PEdge.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PGraph.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PNode.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PRoute.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Parser.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Path.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PathwalkingState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PhysicsEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PopupState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/RegisterState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/ResourceManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/ScriptLine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/StandState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/State.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/SteeringBehaviors.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TAGConnector.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TAnimatedMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TCamera.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TColor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TEntity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TFBO.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TLODMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TLight.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TMatrix4x4.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TNode.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TParticles.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResource.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceAnimatedMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceAnimatedMeshContainer.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="headers/TResourceFont.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceLODMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceTexture.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TShaderProgram.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TShadowMap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TTransformation.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TalkToNomaState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TenseState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Vectors.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/WalkToPlaceState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/World.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/anorms.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/anormtab.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/texture.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="9">
+        <ccTool>
+          <architecture>1</architecture>
+        </ccTool>
+      </item>
+      <item path="sources/AudioEngine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/BadgetState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/BaseGameEntity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/BlankState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/CalmState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Character.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Citizen.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/CitizenState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/DynamicEntity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/EnvState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Environment.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/EventManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/FlockingBehaviors.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/FlockingState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/FollowNomaState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Freetype.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIBackground.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIButton.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIElement.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIOrbit.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUISlider.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIText.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Game.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GameState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GraphicConnector.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GraphicEngine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/HUD.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/LoginState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/MainMenuState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/MapState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Matrices.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/MovingEntity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/NeutralState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Noma.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Object.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/OptionMenuState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PEdge.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PGraph.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PNode.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PRoute.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Parser.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Path.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PathwalkingState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PhysicsEngine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PopupState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/RegisterState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/ResourceManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/ScriptLine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/StandState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/State.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/SteeringBehaviors.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TAGConnector.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TAnimatedMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TCamera.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TColor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TEntity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TFBO.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TLODMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TLight.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TMatrix4x4.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TNode.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TParticles.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResource.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceAnimatedMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceAnimatedMeshContainer.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="sources/TResourceFont.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceLODMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceTexture.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TShaderProgram.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TShadowMap.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TTransformation.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TalkToNomaState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TenseState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/WalkToPlaceState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/World.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="SimpleJSON/JSON.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SimpleJSON/JSON.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SimpleJSON/JSONValue.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SimpleJSON/JSONValue.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/AudioEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/BadgetState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/BaseGameEntity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/BlankState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/CalmState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Character.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Citizen.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/CitizenState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/DynamicEntity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/EnvState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Environment.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/EventManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/FlockingBehaviors.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/FlockingState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/FollowNomaState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Freetype.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GLDebugDraw.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIBackground.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIButton.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIElement.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIOrbit.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUISlider.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIText.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Game.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GameState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GraphicConnector.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GraphicEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/HUD.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/LoginState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/MainMenuState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/MapState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Matrices.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/MovingEntity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/NeutralState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Noma.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Object.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/OptionMenuState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PEdge.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PGraph.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PNode.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PRoute.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Parser.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Path.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PathwalkingState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PhysicsEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PopupState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/RegisterState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/ResourceManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/ScriptLine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/StandState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/State.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/SteeringBehaviors.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TAGConnector.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TAnimatedMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TCamera.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TColor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TEntity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TFBO.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TLODMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TLight.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TMatrix4x4.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TNode.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TParticles.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResource.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceAnimatedMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceAnimatedMeshContainer.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="headers/TResourceFont.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceLODMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceTexture.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TShaderProgram.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TShadowMap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TTransformation.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TalkToNomaState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TenseState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Vectors.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/WalkToPlaceState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/World.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/anorms.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/anormtab.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/texture.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/AudioEngine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/BadgetState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/BaseGameEntity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/BlankState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/CalmState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Character.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Citizen.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/CitizenState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/DynamicEntity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/EnvState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Environment.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/EventManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/FlockingBehaviors.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/FlockingState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/FollowNomaState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Freetype.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIBackground.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIButton.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIElement.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIOrbit.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUISlider.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIText.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Game.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GameState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GraphicConnector.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GraphicEngine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/HUD.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/LoginState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/MainMenuState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/MapState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Matrices.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/MovingEntity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/NeutralState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Noma.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Object.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/OptionMenuState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PEdge.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PGraph.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PNode.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PRoute.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Parser.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Path.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PathwalkingState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PhysicsEngine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PopupState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/RegisterState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/ResourceManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/ScriptLine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/StandState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/State.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/SteeringBehaviors.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TAGConnector.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TAnimatedMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TCamera.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TColor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TEntity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TFBO.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TLODMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TLight.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TMatrix4x4.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TNode.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TParticles.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResource.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceAnimatedMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceAnimatedMeshContainer.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="sources/TResourceFont.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceLODMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceTexture.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TShaderProgram.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TShadowMap.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TTransformation.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TalkToNomaState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TenseState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/WalkToPlaceState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/World.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Debug_Mac_" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <architecture>1</architecture>
+          <commandlineTool>g++</commandlineTool>
+          <incDir>
+            <pElem>Bullet/src</pElem>
+            <pElem>SOIL/include</pElem>
+            <pElem>Freetype/include</pElem>
+          </incDir>
+          <commandLine>-m32 -arch i386 -IIrrlicht/include -IIrrklang/include -Wdeprecated-declarations</commandLine>
+        </ccTool>
+        <linkerTool>
+          <linkerAddLib>
+            <pElem>Bullet/lib</pElem>
+            <pElem>SOIL/lib</pElem>
+            <pElem>Freetype/lib</pElem>
+            <pElem>Irrklang</pElem>
+          </linkerAddLib>
+          <linkerLibItems>
+            <linkerLibLibItem>stdc++.6.0.9</linkerLibLibItem>
+            <linkerLibLibItem>BulletCollision</linkerLibLibItem>
+            <linkerLibLibItem>BulletDynamics</linkerLibLibItem>
+            <linkerLibLibItem>LinearMath</linkerLibLibItem>
+            <linkerLibLibItem>BulletFileLoader</linkerLibLibItem>
+            <linkerLibLibItem>BulletWorldImporter</linkerLibLibItem>
+            <linkerLibLibItem>SOIL</linkerLibLibItem>
+            <linkerLibLibItem>freetype</linkerLibLibItem>
+            <linkerLibLibItem>curl.3</linkerLibLibItem>
+            <linkerLibLibItem>curl.4</linkerLibLibItem>
+            <linkerLibLibItem>curl</linkerLibLibItem>
+            <linkerLibLibItem>irrklang</linkerLibLibItem>
+          </linkerLibItems>
+          <commandLine>-framework IOKit -framework OpenGL -framework Cocoa -framework Carbon -framework OpenGL -framework GLUT -LIrrlicht/lib/MacOSX -lIrrlicht -lstdc++.6.0.9</commandLine>
+        </linkerTool>
+      </compileType>
+      <item path="SimpleJSON/JSON.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SimpleJSON/JSON.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SimpleJSON/JSONValue.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SimpleJSON/JSONValue.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/AudioEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/BadgetState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/BaseGameEntity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/BlankState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/CalmState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Character.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Citizen.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/CitizenState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/DynamicEntity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/EnvState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Environment.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/EventManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/FlockingBehaviors.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/FlockingState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/FollowNomaState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Freetype.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GLDebugDraw.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIBackground.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIButton.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIElement.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIOrbit.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUISlider.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIText.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Game.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GameState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GraphicConnector.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GraphicEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/HUD.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/LoginState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/MainMenuState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/MapState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Matrices.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/MovingEntity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/NeutralState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Noma.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Object.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/OptionMenuState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PEdge.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PGraph.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PNode.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PRoute.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Parser.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Path.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PathwalkingState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PhysicsEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PopupState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/RegisterState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/ResourceManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/ScriptLine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/StandState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/State.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/SteeringBehaviors.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TAGConnector.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TAnimatedMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TCamera.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TColor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TEntity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TFBO.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TLODMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TLight.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TMatrix4x4.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TNode.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TParticles.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResource.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceAnimatedMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceAnimatedMeshContainer.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="headers/TResourceFont.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceLODMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceTexture.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TShaderProgram.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TShadowMap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TTransformation.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TalkToNomaState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TenseState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Vectors.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/WalkToPlaceState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/World.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/anorms.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/anormtab.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/texture.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+        <ccTool>
+          <architecture>1</architecture>
+        </ccTool>
+      </item>
+      <item path="sources/AudioEngine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/BadgetState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/BaseGameEntity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/BlankState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/CalmState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Character.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Citizen.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/CitizenState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/DynamicEntity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/EnvState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Environment.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/EventManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/FlockingBehaviors.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/FlockingState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/FollowNomaState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Freetype.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIBackground.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIButton.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIElement.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIOrbit.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUISlider.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIText.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Game.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GameState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GraphicConnector.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GraphicEngine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/HUD.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/LoginState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/MainMenuState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/MapState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Matrices.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/MovingEntity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/NeutralState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Noma.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Object.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/OptionMenuState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PEdge.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PGraph.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PNode.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PRoute.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Parser.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Path.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PathwalkingState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PhysicsEngine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PopupState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/RegisterState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/ResourceManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/ScriptLine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/StandState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/State.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/SteeringBehaviors.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TAGConnector.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TAnimatedMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TCamera.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TColor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TEntity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TFBO.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TLODMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TLight.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TMatrix4x4.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TNode.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TParticles.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResource.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceAnimatedMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceAnimatedMeshContainer.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="sources/TResourceFont.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceLODMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceTexture.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TShaderProgram.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TShadowMap.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TTransformation.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TalkToNomaState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TenseState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/WalkToPlaceState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/World.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Debug_Linux_" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <architecture>1</architecture>
+          <commandlineTool>g++</commandlineTool>
+          <commandLine>-m32 -IIrrlicht/include -I/usr/X11R6/include -O3 -ffast-math -std=c++0x</commandLine>
+        </ccTool>
+        <linkerTool>
+          <linkerLibItems>
+            <linkerLibFileItem>Irrlicht/lib/Linux/libIrrlicht.a</linkerLibFileItem>
+          </linkerLibItems>
+          <commandLine>-LIrrklang -LIrrlicht/lib/Linux -lIrrlicht -lGL -lXxf86vm -lXext -lX11 -lXcursor</commandLine>
+        </linkerTool>
+      </compileType>
+      <item path="SimpleJSON/JSON.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SimpleJSON/JSON.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SimpleJSON/JSONValue.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SimpleJSON/JSONValue.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/AudioEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/BadgetState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/BaseGameEntity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/BlankState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/CalmState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Character.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Citizen.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/CitizenState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/DynamicEntity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/EnvState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Environment.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/EventManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/FlockingBehaviors.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/FlockingState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/FollowNomaState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Freetype.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GLDebugDraw.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIBackground.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIButton.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIElement.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIOrbit.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUISlider.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GUIText.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Game.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GameState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GraphicConnector.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/GraphicEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/HUD.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/LoginState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/MainMenuState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/MapState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Matrices.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/MovingEntity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/NeutralState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Noma.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Object.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/OptionMenuState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PEdge.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PGraph.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PNode.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PRoute.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Parser.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Path.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PathwalkingState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PhysicsEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/PopupState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/RegisterState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/ResourceManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/ScriptLine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/StandState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/State.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/SteeringBehaviors.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TAGConnector.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TAnimatedMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TCamera.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TColor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TEntity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TFBO.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TLODMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TLight.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TMatrix4x4.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TNode.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TParticles.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResource.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceAnimatedMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceAnimatedMeshContainer.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="headers/TResourceFont.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceLODMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceMesh.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TResourceTexture.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TShaderProgram.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TShadowMap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TTransformation.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TalkToNomaState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/TenseState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/Vectors.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/WalkToPlaceState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/World.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/anorms.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/anormtab.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="headers/texture.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+        <ccTool>
+          <architecture>1</architecture>
+        </ccTool>
+      </item>
+      <item path="sources/AudioEngine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/BadgetState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/BaseGameEntity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/BlankState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/CalmState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Character.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Citizen.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/CitizenState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/DynamicEntity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/EnvState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Environment.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/EventManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/FlockingBehaviors.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/FlockingState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/FollowNomaState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Freetype.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIBackground.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIButton.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIElement.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIOrbit.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUISlider.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GUIText.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Game.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GameState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GraphicConnector.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/GraphicEngine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/HUD.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/LoginState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/MainMenuState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/MapState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Matrices.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/MovingEntity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/NeutralState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Noma.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Object.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/OptionMenuState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PEdge.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PGraph.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PNode.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PRoute.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Parser.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/Path.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PathwalkingState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PhysicsEngine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/PopupState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/RegisterState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/ResourceManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/ScriptLine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/StandState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/State.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/SteeringBehaviors.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TAGConnector.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TAnimatedMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TCamera.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TColor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TEntity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TFBO.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TLODMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TLight.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TMatrix4x4.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TNode.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TParticles.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResource.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceAnimatedMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceAnimatedMeshContainer.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="sources/TResourceFont.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceLODMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceMesh.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TResourceTexture.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TShaderProgram.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TShadowMap.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TTransformation.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TalkToNomaState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/TenseState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/WalkToPlaceState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sources/World.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

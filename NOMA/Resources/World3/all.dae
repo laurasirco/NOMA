@@ -1,0 +1,34 @@
+<library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="monolith" name="monolith" type="NODE">
+        <matrix sid="transform">-0.345653 2.35757e-6 14.47064 243.4883 14.47064 5.6314e-8 0.345653 -1368.911 0 14.47477 -2.35824e-6 32.17049 0 0 0 1</matrix>
+        <instance_geometry url="#monolith-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_008-material" target="#None_008-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="terrain" name="terrain" type="NODE">
+        <matrix sid="transform">223.0894 0 0 -43.36687 0 -3.63459e-5 -223.0894 -138.469 0 223.0894 -3.63459e-5 -151.9927 0 0 0 1</matrix>
+        <instance_geometry url="#terrain-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_009-material" target="#None_009-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="Esfera" name="Esfera" type="NODE">
+        <matrix sid="transform">524.9112 0 0 -43.01046 0 -8.55189e-5 -524.9112 100.073 0 524.9112 -8.55189e-5 -4.282191 0 0 0 1</matrix>
+        <instance_geometry url="#Esfera-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None-material" target="#None-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>

@@ -1,0 +1,28 @@
+Demo 8.1
+{
+  "name": "Demo 8.1",
+  "mapName": "Demo8.1/all",
+  "folder": "Demo8.1/",
+  "numCitizen": 0,
+  "moodValues": [6,15,3],
+  "trustValues": [3,10,2],
+  "talkValues": [1,7,1],
+  "reachableWorlds": [],
+  "citizenData": [
+    {
+      "meshName" : "Demo8.1/npc.obj",
+      "textureName": "",
+      "relativeNum": 1
+    }
+  ],
+  "script": [
+    {
+      "type": 3,
+      "x": -20,
+      "y": 0,
+      "z": 0,
+      "content": "Frase de ciudadano despues de llevarte a un sitio.",
+      "audioFile": "audio.ogg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+<library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="all_Cubo" name="all_Cubo" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 0 -1 0 0 1 0 0 0 0 0 1</matrix>
+        <instance_geometry url="#all_Cubo-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None-material" target="#None-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>

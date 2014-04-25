@@ -1,0 +1,105 @@
+World 3
+{
+  "name": "World 3",
+  "folder": "World3/",
+  "mapName": "World3/all",
+  "numCitizen": 1,
+  "moodValues": [6,15,3],
+  "trustValues": [3,10,2],
+  "talkValues": [1,7,1],
+  "reachableWorlds": [0],
+  "citizenData": [
+    {
+      "meshName" : "World3/cosa.obj",
+      "textureName": "World3/cosa.png",
+      "relativeNum": 3
+    },
+    {
+      "meshName": "World3/cosa.obj",
+      "textureName": "World3/cosa.png",
+      "relativeNum": 2
+    }
+  ],
+  "script": [
+    {
+      "type": 0,
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "content": "This is a script line",
+      "audioFile": "audio.ogg"
+    },
+    {
+      "type": 2,
+      "x": 25,
+      "y": 0,
+      "z": 30,
+      "content": "This is a citizen script line 1",
+      "audioFile": "audio.ogg"
+    },
+    {
+      "type": 2,
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "content": "This is a citizen script line 2",
+      "audioFile": "audio.ogg"
+    },
+    {
+      "type": 2,
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "content": "This is a irrelevant script line 1",
+      "audioFile": "audio.ogg"
+    },
+    {
+      "type": 2,
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "content": "This is a irrelevant script line 2",
+      "audioFile": "audio.ogg"
+    },
+    {
+      "type": 2,
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "content": "This is a irrelevant script line 3",
+      "audioFile": "audio.ogg"
+    },
+    {
+      "type": 3,
+      "x": 40,
+      "y": 0,
+      "z": 40,
+      "content": "This is a line after arriving a place",
+      "audioFile": "audio.ogg"
+    },
+        {
+      "type": 3,
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "content": "This is a line after arriving a place",
+      "audioFile": "audio.ogg"
+    },
+        {
+      "type": 3,
+      "x": -10,
+      "y": 0,
+      "z": 30,
+      "content": "This is a line after arriving a place",
+      "audioFile": "audio.ogg"
+    },
+        {
+      "type": 3,
+      "x": 10,
+      "y": 0,
+      "z": -40,
+      "content": "This is a line after arriving a place",
+      "audioFile": "audio.ogg"
+    }
+  ]
+}

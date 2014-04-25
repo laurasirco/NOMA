@@ -1,0 +1,344 @@
+<library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="terrain" name="terrain" type="NODE">
+        <matrix sid="transform">-1419.9 0 0 27.04638 0 -1.10366e-7 391.1617 70.03242 0 0.6774233 6.37283e-5 -4.12936 0 0 0 1</matrix>
+        <instance_geometry url="#monolith-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None-material" target="#None-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="house1_Booleano_Nulo__Cubo" name="house1_Booleano_Nulo__Cubo" type="NODE">
+        <matrix sid="transform">4.883551 7.55766e-7 4.638861 -386.3655 4.638861 -7.95631e-7 -4.883551 -390.3298 0 6.735584 -1.09737e-6 -6.972016 0 0 0 1</matrix>
+        <instance_geometry url="#house1_Booleano_Nulo__Cubo-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Mat-material" target="#Mat-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="house2_Nulo__Cubo_9" name="house2_Nulo__Cubo_9" type="NODE">
+        <matrix sid="transform">-4.938204 4.34912e-7 2.669469 -402.5559 2.669469 8.04535e-7 4.938204 -74.36858 0 5.613546 -9.14563e-7 -0.5938597 0 0 0 1</matrix>
+        <instance_geometry url="#house2_Nulo__Cubo_9-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Mat_001-material" target="#Mat_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="house3_Booleano_Nulo__Cilindro_001" name="house3_Booleano_Nulo__Cilindro_001" type="NODE">
+        <matrix sid="transform">4.433542 2.4778e-7 1.520862 124.9363 1.520862 -7.22315e-7 -4.433542 460.724 0 4.687142 -7.63633e-7 -0.593873 0 0 0 1</matrix>
+        <instance_geometry url="#house3_Booleano_Nulo__Cilindro_001-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_009-material" target="#None_009-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="house4_Cubo_2" name="house4_Cubo_2" type="NODE">
+        <matrix sid="transform">-3.115384 7.42238e-7 4.555825 119.9645 4.555825 5.07561e-7 3.115384 287.1132 0 5.519163 -8.99186e-7 -0.5938597 0 0 0 1</matrix>
+        <instance_geometry url="#house4_Cubo_2-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_010-material" target="#None_010-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="plaza_Nulo_1_Nulo__1_Cilindro_001" name="plaza_Nulo_1_Nulo__1_Cilindro_001" type="NODE">
+        <matrix sid="transform">7.99596 -2.22296e-6 -13.64443 398.1155 -13.64443 -1.30271e-6 -7.99596 478.0877 0 15.81474 -2.57655e-6 -0.593873 0 0 0 1</matrix>
+        <instance_geometry url="#plaza_Nulo_1_Nulo__1_Cilindro_001-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Mat_14_003-material" target="#Mat_14_003-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="house1_Booleano_Nulo__Cubo_001" name="house1_Booleano_Nulo__Cubo_001" type="NODE">
+        <matrix sid="transform">6.485186 -2.96429e-7 -1.819472 -412.2371 -1.819472 -1.05657e-6 -6.485186 -247.6855 0 6.735584 -1.09737e-6 -6.972016 0 0 0 1</matrix>
+        <instance_geometry url="#house1_Booleano_Nulo__Cubo_001-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Mat-material" target="#Mat-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="house1_Booleano_Nulo__Cubo_002" name="house1_Booleano_Nulo__Cubo_002" type="NODE">
+        <matrix sid="transform">5.193599 -6.9875e-7 -4.288897 -278.6812 -4.288897 -8.46144e-7 -5.193599 -409.9086 0 6.735584 -1.09737e-6 -6.972016 0 0 0 1</matrix>
+        <instance_geometry url="#house1_Booleano_Nulo__Cubo_002-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Mat-material" target="#Mat-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="house1_Booleano_Nulo__Cubo_003" name="house1_Booleano_Nulo__Cubo_003" type="NODE">
+        <matrix sid="transform">5.931425 5.19977e-7 3.191599 -71.06642 3.191599 -9.66352e-7 -5.931425 -262.3519 0 6.735584 -1.09737e-6 -6.972016 0 0 0 1</matrix>
+        <instance_geometry url="#house1_Booleano_Nulo__Cubo_003-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Mat-material" target="#Mat-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="house1_Booleano_Nulo__Cubo_004" name="house1_Booleano_Nulo__Cubo_004" type="NODE">
+        <matrix sid="transform">6.73508 -1.34959e-8 -0.0828374 405.8173 -0.0828374 -1.09728e-6 -6.73508 298.1648 0 6.735584 -1.09737e-6 -6.972016 0 0 0 1</matrix>
+        <instance_geometry url="#house1_Booleano_Nulo__Cubo_004-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Mat-material" target="#Mat-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="house1_Booleano_Nulo__Cubo_005" name="house1_Booleano_Nulo__Cubo_005" type="NODE">
+        <matrix sid="transform">3.903496 -8.94297e-7 -5.489157 307.9509 -5.489157 -6.3596e-7 -3.903496 201.5071 0 6.735584 -1.09737e-6 -6.972016 0 0 0 1</matrix>
+        <instance_geometry url="#house1_Booleano_Nulo__Cubo_005-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Mat-material" target="#Mat-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_009" name="stone2_Group1_009" type="NODE">
+        <matrix sid="transform">12.41364 0 0 -249.7072 0 -2.02244e-6 -12.41364 -290.0725 0 12.41364 -2.02244e-6 -0.593873 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_009-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_012-material" target="#None_012-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_010" name="stone3_Group1_010" type="NODE">
+        <matrix sid="transform">24.58525 0 0 -233.7368 0 -4.00545e-6 -24.58525 -266.6187 0 24.58525 -4.00545e-6 -0.593873 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_010-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_013-material" target="#None_013-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_011" name="stone4_Group1_011" type="NODE">
+        <matrix sid="transform">47.68814 0 0 159.7937 0 -7.76938e-6 -47.68814 232.3503 0 47.68814 -7.76938e-6 -4.473137 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_011-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_014-material" target="#None_014-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone5_Group1_012" name="stone5_Group1_012" type="NODE">
+        <matrix sid="transform">5.421364 -3.67148e-6 -22.53538 27.44222 -22.53538 -8.83252e-7 -5.421364 -47.75786 0 23.17832 -3.77623e-6 -6.415365 0 0 0 1</matrix>
+        <instance_geometry url="#stone5_Group1_012-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_015-material" target="#None_015-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone5_Group1_000" name="stone5_Group1_000" type="NODE">
+        <matrix sid="transform">10.38516 0 0 250.7296 0 -1.69196e-6 -10.38516 369.0345 0 10.38516 -1.69196e-6 -0.593873 0 0 0 1</matrix>
+        <instance_geometry url="#stone5_Group1_000-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_015-material" target="#None_015-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_000" name="stone4_Group1_000" type="NODE">
+        <matrix sid="transform">-232.716 -2.54348e-5 -156.1179 -312.3286 -156.1179 3.79143e-5 232.716 459.8551 0 280.2312 -4.56555e-5 -4.473137 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_001-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_014-material" target="#None_014-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_000" name="stone3_Group1_000" type="NODE">
+        <matrix sid="transform">-21.58084 -80.39188 -181.8557 330.9975 -175.6989 -77.92413 55.29768 -227.3594 -93.0821 165.7258 -62.21541 -137.5502 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_000-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_013-material" target="#None_013-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_000" name="stone2_Group1_000" type="NODE">
+        <matrix sid="transform">31.31437 -4.16909e-6 -25.5897 -121.8664 -25.5897 -5.10176e-6 -31.31437 113.582 0 40.44036 -6.58857e-6 -0.593873 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_000-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_012-material" target="#None_012-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="tree1_Group1_000" name="tree1_Group1_000" type="NODE">
+        <matrix sid="transform">3.024127 0 0 100.2359 0 -4.92693e-7 -3.024127 -185.6053 0 3.024127 -4.92693e-7 -0.9876385 0 0 0 1</matrix>
+        <instance_geometry url="#tree1_Group1_000-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_001" name="stone4_Group1_001" type="NODE">
+        <matrix sid="transform">-142.5327 32.92691 -94.99189 485.674 -95.37206 7.858986 145.8273 -129.5286 31.80888 171.1059 11.58191 -11.66915 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_003-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_014-material" target="#None_014-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_001" name="stone2_Group1_001" type="NODE">
+        <matrix sid="transform">124.2538 -9.417652 -93.92841 126.4944 -94.38407 -9.600059 -123.894 -368.0113 1.698684 155.4651 -13.34046 -3.442216 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_001-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_012-material" target="#None_012-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_001" name="stone3_Group1_001" type="NODE">
+        <matrix sid="transform">183.1313 0 0 -37.1535 0 -2.98359e-5 -183.1313 -404.5927 0 183.1313 -2.98359e-5 3.393143 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_001-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_013-material" target="#None_013-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="house1_Booleano_Nulo__Cubo_006" name="house1_Booleano_Nulo__Cubo_006" type="NODE">
+        <matrix sid="transform">2.935441 -9.87671e-7 -6.062289 -301.9011 -6.062289 -4.78244e-7 -2.935441 -202.4078 0 6.735584 -1.09737e-6 -6.972016 0 0 0 1</matrix>
+        <instance_geometry url="#house1_Booleano_Nulo__Cubo_007-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Mat-material" target="#Mat-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="tree2_Group1_000" name="tree2_Group1_000" type="NODE">
+        <matrix sid="transform">4.399165 0 0 143.1571 0 -7.16715e-7 -4.399165 -160.9117 0 4.399165 -7.16715e-7 -2.307192 0 0 0 1</matrix>
+        <instance_geometry url="#tree2_Group1_000-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_005-material" target="#None_005-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="tree3_Cubo_6_001" name="tree3_Cubo_6_001" type="NODE">
+        <matrix sid="transform">4.519296 0 0 256.8567 0 -7.36287e-7 -4.519296 380.4186 0 4.519296 -7.36287e-7 -3.697381 0 0 0 1</matrix>
+        <instance_geometry url="#tree3_Cubo_6_001-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Mat_1_000-material" target="#Mat_1_000-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="tree3_Cubo_6_000" name="tree3_Cubo_6_000" type="NODE">
+        <matrix sid="transform">4.519296 0 0 78.71525 0 -7.36287e-7 -4.519296 -135.8891 0 4.519296 -7.36287e-7 -3.697367 0 0 0 1</matrix>
+        <instance_geometry url="#tree3_Cubo_6_000-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Mat_1_000-material" target="#Mat_1_000-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="tree2_Group1_001" name="tree2_Group1_001" type="NODE">
+        <matrix sid="transform">3.827588 0 0 -340.9289 0 -6.23593e-7 -3.827588 56.47401 0 3.827588 -6.23593e-7 -2.307192 0 0 0 1</matrix>
+        <instance_geometry url="#tree2_Group1_001-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_005-material" target="#None_005-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="tree1_Group1_001" name="tree1_Group1_001" type="NODE">
+        <matrix sid="transform">3.024127 0 0 -280.1894 0 -4.92693e-7 -3.024127 -302.3495 0 3.024127 -4.92693e-7 -0.9876385 0 0 0 1</matrix>
+        <instance_geometry url="#tree1_Group1_001-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="tree3_Cubo_6_002" name="tree3_Cubo_6_002" type="NODE">
+        <matrix sid="transform">4.519296 0 0 -146.722 0 -7.36287e-7 -4.519296 255.6068 0 4.519296 -7.36287e-7 -3.697367 0 0 0 1</matrix>
+        <instance_geometry url="#tree3_Cubo_6_002-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Mat_1_000-material" target="#Mat_1_000-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="tree2_Group1_002" name="tree2_Group1_002" type="NODE">
+        <matrix sid="transform">4.399165 0 0 -82.28006 0 -7.16715e-7 -4.399165 293.9881 0 4.399165 -7.16715e-7 -2.307192 0 0 0 1</matrix>
+        <instance_geometry url="#tree2_Group1_002-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_005-material" target="#None_005-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="tree1_Group1_002" name="tree1_Group1_002" type="NODE">
+        <matrix sid="transform">3.024127 0 0 -61.79707 0 -4.92693e-7 -3.024127 205.8906 0 3.024127 -4.92693e-7 -0.9876385 0 0 0 1</matrix>
+        <instance_geometry url="#tree1_Group1_002-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="Esfera" name="Esfera" type="NODE">
+        <matrix sid="transform">524.9112 0 0 -43.01046 0 -8.55189e-5 -524.9112 100.073 0 524.9112 -8.55189e-5 -4.282191 0 0 0 1</matrix>
+        <instance_geometry url="#Esfera-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None-material" target="#None-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="house2_Nulo__Cubo_9_001" name="house2_Nulo__Cubo_9_001" type="NODE">
+        <matrix sid="transform">4.466101 -5.5407e-7 -3.400859 356.4722 -3.400859 -7.2762e-7 -4.466101 -106.5735 0 5.613546 -9.14563e-7 -0.5938597 0 0 0 1</matrix>
+        <instance_geometry url="#house2_Nulo__Cubo_9_001-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Mat_001-material" target="#Mat_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>

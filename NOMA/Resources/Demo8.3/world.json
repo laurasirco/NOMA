@@ -1,0 +1,52 @@
+Demo 8.3
+{
+  "name": "Demo 8.3",
+  "mapName": "Demo8.3/all",
+  "folder": "Demo8.3/",
+  "numCitizen": 7,
+  "moodValues": [6,20,6],
+  "trustValues": [3,14,4],
+  "talkValues": [1,12,2],
+  "reachableWorlds": [],
+  "citizenData": [
+    {
+      "meshName" : "Demo8.3/npc.obj",
+      "textureName": "Demo8.3/npc.png",
+      "relativeNum": 10
+    }
+  ],
+  "script": [
+    {
+      "type": 1,
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "content": "Primera frase de ciudadano.",
+      "audioFile": "audio.ogg"
+    },
+    {
+      "type": 1,
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "content": "Segunda frase de ciudadano.",
+      "audioFile": "audio.ogg"
+    },
+    {
+      "type": 2,
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "content": "Frase irrelevante para cuando no tienen nada que decir.",
+      "audioFile": "audio.ogg"
+    },
+	{
+      "type": 3,
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "content": "Frase despues de llevarte a un sitio.",
+      "audioFile": "audio.ogg"
+    }
+  ]
+}

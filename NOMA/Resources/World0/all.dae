@@ -1,0 +1,1224 @@
+<library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="stone1_Group1" name="stone1_Group1" type="NODE">
+        <matrix sid="transform">25.24872 0 0 -25.28768 0 -4.11354e-6 -25.24872 1358.643 0 25.24872 -4.11354e-6 -16.27747 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone1_Group1_001" name="stone1_Group1_001" type="NODE">
+        <matrix sid="transform">25.24872 0 0 540.8184 0 -4.11354e-6 -25.24872 1439.167 0 25.24872 -4.11354e-6 -24.25644 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1_001-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone1_Group1_002" name="stone1_Group1_002" type="NODE">
+        <matrix sid="transform">25.24872 0 0 492.0161 0 -4.11354e-6 -25.24872 636.3698 0 25.24872 -4.11354e-6 -16.27747 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1_002-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone1_Group1_003" name="stone1_Group1_003" type="NODE">
+        <matrix sid="transform">25.24872 0 0 -281.4995 0 -4.11354e-6 -25.24872 943.8239 0 25.24872 -4.11354e-6 -16.27747 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1_003-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone1_Group1_004" name="stone1_Group1_004" type="NODE">
+        <matrix sid="transform">25.24872 0 0 -459.6276 0 -4.11354e-6 -25.24872 863.3002 0 25.24872 -4.11354e-6 -16.27747 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1_004-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone1_Group1_005" name="stone1_Group1_005" type="NODE">
+        <matrix sid="transform">25.24872 0 0 -735.3603 0 -4.11354e-6 -25.24872 1139.033 0 25.24872 -4.11354e-6 -29.18717 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1_005-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone1_Group1_006" name="stone1_Group1_006" type="NODE">
+        <matrix sid="transform">25.24872 0 0 -1198.982 0 -4.11354e-6 -25.24872 663.2111 0 25.24872 -4.11354e-6 -16.27747 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1_006-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone1_Group1_007" name="stone1_Group1_007" type="NODE">
+        <matrix sid="transform">25.24872 0 0 -1111.138 0 -4.11354e-6 -25.24872 245.9519 0 25.24872 -4.11354e-6 -12.53928 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1_007-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone1_Group1_008" name="stone1_Group1_008" type="NODE">
+        <matrix sid="transform">25.24872 0 0 -1457.634 0 -4.11354e-6 -25.24872 -266.4717 0 25.24872 -4.11354e-6 -16.27747 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1_008-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone1_Group1_009" name="stone1_Group1_009" type="NODE">
+        <matrix sid="transform">-13.14698 -3.51189e-6 -21.55585 -935.4496 -21.55585 2.14192e-6 13.14698 -227.4299 0 25.24872 -4.11354e-6 -14.50119 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1_009-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone1_Group1_010" name="stone1_Group1_010" type="NODE">
+        <matrix sid="transform">22.88167 1.73896e-6 10.67366 -39.92839 10.67366 -3.7279e-6 -22.88167 87.3446 0 25.24872 -4.11354e-6 -11.55693 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1_010-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone1_Group1_011" name="stone1_Group1_011" type="NODE">
+        <matrix sid="transform">25.24872 0 0 1199.649 0 -4.11354e-6 -25.24872 177.6288 0 25.24872 -4.11354e-6 -7.71374 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1_011-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone1_Group1_012" name="stone1_Group1_012" type="NODE">
+        <matrix sid="transform">7.436996 -7.68572e-6 -47.17464 1204.529 -47.17464 -1.21164e-6 -7.436996 869.1135 0 47.75726 -7.78065e-6 -20.83989 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1_012-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone1_Group1_013" name="stone1_Group1_013" type="NODE">
+        <matrix sid="transform">25.24872 0 0 901.9549 0 -4.11354e-6 -25.24872 -383.597 0 25.24872 -4.11354e-6 -5.747939 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1_013-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone1_Group1_014" name="stone1_Group1_014" type="NODE">
+        <matrix sid="transform">-13.82749 -3.44183e-6 -21.12577 -100.9311 -21.12577 2.25278e-6 13.82749 -285.9925 0 25.24872 -4.11354e-6 -10.77017 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1_014-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone1_Group1_015" name="stone1_Group1_015" type="NODE">
+        <matrix sid="transform">25.24872 0 0 -813.4438 0 -4.11354e-6 -25.24872 -508.0427 0 25.24872 -4.11354e-6 -16.27747 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1_015-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone1_Group1_016" name="stone1_Group1_016" type="NODE">
+        <matrix sid="transform">25.24872 0 0 -813.4438 0 -4.11354e-6 -25.24872 -508.0427 0 25.24872 -4.11354e-6 -10.76307 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1_016-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone1_Group1_017" name="stone1_Group1_017" type="NODE">
+        <matrix sid="transform">25.24872 0 0 30.83505 0 -4.11354e-6 -25.24872 -1213.235 0 25.24872 -4.11354e-6 -11.21063 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1_017-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone1_Group1_019" name="stone1_Group1_019" type="NODE">
+        <matrix sid="transform">56.0064 -5.25827e-6 -32.27505 1294.813 -32.27505 -9.1246e-6 -56.0064 -1171.753 0 64.64051 -1.05313e-5 -1.962007 0 0 0 1</matrix>
+        <instance_geometry url="#stone1_Group1_019-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_001-material" target="#None_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_001" name="stone2_Group1_001" type="NODE">
+        <matrix sid="transform">-6.175606 -3.03041e-7 -1.86005 -43.36687 -1.86005 1.00613e-6 6.175606 -138.469 0 6.449644 -1.05078e-6 5.952276 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_001-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_000" name="stone2_Group1_000" type="NODE">
+        <matrix sid="transform">6.449644 0 0 27.79682 0 -1.05078e-6 -6.449644 1333.603 0 6.449644 -1.05078e-6 -8.924567 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_000-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_002" name="stone2_Group1_002" type="NODE">
+        <matrix sid="transform">6.449644 0 0 513.7432 0 -1.05078e-6 -6.449644 1551.16 0 6.449644 -1.05078e-6 -22.91564 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_002-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_003" name="stone2_Group1_003" type="NODE">
+        <matrix sid="transform">54.81762 -14.28774 11.74566 617.926 12.87276 3.090191 -56.31886 1087.58 13.28127 55.97662 6.107103 -17.02602 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_003-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_004" name="stone2_Group1_004" type="NODE">
+        <matrix sid="transform">6.449644 0 0 216.8889 0 -1.05078e-6 -6.449644 644.3315 0 6.449644 -1.05078e-6 -0.5959087 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_004-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_005" name="stone2_Group1_005" type="NODE">
+        <matrix sid="transform">6.449644 0 0 -330.0549 0 -1.05078e-6 -6.449644 1000.15 0 6.449644 -1.05078e-6 -7.028132 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_005-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_006" name="stone2_Group1_006" type="NODE">
+        <matrix sid="transform">11.33975 0 0 -816.0012 0 -1.84748e-6 -11.33975 896.4543 0 11.33975 -1.84748e-6 -12.46379 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_006-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_007" name="stone2_Group1_007" type="NODE">
+        <matrix sid="transform">-1.744363 -1.01162e-6 -6.209275 -799.7352 -6.209275 2.84193e-7 1.744363 715.4952 0 6.449644 -1.05078e-6 16.7529 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_007-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_008" name="stone2_Group1_008" type="NODE">
+        <matrix sid="transform">6.449644 0 0 -1057.958 0 -1.05078e-6 -6.449644 933.0527 0 6.449644 -1.05078e-6 -2.271908 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_008-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_009" name="stone2_Group1_009" type="NODE">
+        <matrix sid="transform">11.23688 0 0 -1360.912 0 -1.83072e-6 -11.23688 400.3417 0 11.23688 -1.83072e-6 5.665485 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_009-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_010" name="stone2_Group1_010" type="NODE">
+        <matrix sid="transform">6.449644 0 0 -1175.886 0 -1.05078e-6 -6.449644 99.42088 0 6.449644 -1.05078e-6 1.123059 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_010-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_011" name="stone2_Group1_011" type="NODE">
+        <matrix sid="transform">15.17467 -3.68193e-6 -22.59951 -1514.086 -22.59951 -2.47227e-6 -15.17467 -133.1805 0 27.22147 -4.43494e-6 -12.3656 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_011-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_012" name="stone2_Group1_012" type="NODE">
+        <matrix sid="transform">4.625475 0 0 84.72781 0 -7.53586e-7 -4.625475 382.0424 0 4.625475 -7.53586e-7 -2.990214 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_012-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_013" name="stone2_Group1_013" type="NODE">
+        <matrix sid="transform">6.449644 0 0 -397.1521 0 -1.05078e-6 -6.449644 48.58968 0 6.449644 -1.05078e-6 3.732533 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_013-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_014" name="stone2_Group1_014" type="NODE">
+        <matrix sid="transform">6.449644 0 0 1268.078 0 -1.05078e-6 -6.449644 530.4695 0 6.449644 -1.05078e-6 -13.58549 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_014-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_015" name="stone2_Group1_015" type="NODE">
+        <matrix sid="transform">6.449644 0 0 538.1422 0 -1.05078e-6 -6.449644 404.4081 0 6.449644 -1.05078e-6 -4.040765 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_015-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_016" name="stone2_Group1_016" type="NODE">
+        <matrix sid="transform">38.08888 0 0 1237.58 0 -6.20547e-6 -38.08888 -417.0243 0 38.08888 -6.20547e-6 -4.485875 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_016-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_018" name="stone2_Group1_018" type="NODE">
+        <matrix sid="transform">6.449644 0 0 84.72791 0 -1.05078e-6 -6.449644 -445.4897 0 6.449644 -1.05078e-6 24.22046 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_018-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_019" name="stone2_Group1_019" type="NODE">
+        <matrix sid="transform">6.449644 0 0 -1019.326 0 -1.05078e-6 -6.449644 -1031.065 0 6.449644 -1.05078e-6 45.29012 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_019-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_020" name="stone2_Group1_020" type="NODE">
+        <matrix sid="transform">17.05147 0 0 -447.9832 0 -2.77804e-6 -17.05147 -984.4924 0 17.05147 -2.77804e-6 5.863566 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_020-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_021" name="stone2_Group1_021" type="NODE">
+        <matrix sid="transform">6.449644 0 0 527.976 0 -1.05078e-6 -6.449644 -1468.214 0 6.449644 -1.05078e-6 45.29012 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_021-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_023" name="stone2_Group1_023" type="NODE">
+        <matrix sid="transform">-2.345921 -1.54016e-6 -9.45341 1009.856 -9.45341 3.82199e-7 2.345921 -746.4105 0 9.740139 -1.58687e-6 24.23105 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_023-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_024" name="stone2_Group1_024" type="NODE">
+        <matrix sid="transform">6.449644 0 0 951.2986 0 -1.05078e-6 -6.449644 -124.2388 0 6.449644 -1.05078e-6 9.872026 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_024-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_025" name="stone2_Group1_025" type="NODE">
+        <matrix sid="transform">6.449644 0 0 800.0256 0 -1.05078e-6 -6.449644 175.8675 0 6.449644 -1.05078e-6 -6.493395 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_025-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_026" name="stone2_Group1_026" type="NODE">
+        <matrix sid="transform">27.12403 0 0 282.7692 0 -4.41907e-6 -27.12403 188.0669 0 27.12403 -4.41907e-6 -5.445807 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_026-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_027" name="stone2_Group1_027" type="NODE">
+        <matrix sid="transform">17.00416 0 0 -207.6483 0 -2.77033e-6 -17.00416 600.4081 0 17.00416 -2.77033e-6 32.00433 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_027-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone2_Group1_029" name="stone2_Group1_029" type="NODE">
+        <matrix sid="transform">25.22792 0 0 -598.0305 0 -4.11015e-6 -25.22792 -688.7297 0 25.22792 -4.11015e-6 -1.582181 0 0 0 1</matrix>
+        <instance_geometry url="#stone2_Group1_029-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_002-material" target="#None_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_002" name="stone3_Group1_002" type="NODE">
+        <matrix sid="transform">17.60178 0 0 45.64467 0 -2.86769e-6 -17.60178 -138.469 0 17.60178 -2.86769e-6 10.51114 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_002-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_003-material" target="#None_003-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_000" name="stone3_Group1_000" type="NODE">
+        <matrix sid="transform">17.33484 0 0 340.8618 0 -2.8242e-6 -17.33484 1322.977 0 17.33484 -2.8242e-6 -16.08182 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_000-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_003-material" target="#None_003-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_001" name="stone3_Group1_001" type="NODE">
+        <matrix sid="transform">10.75061 0 0 45.64468 0 -1.7515e-6 -10.75061 1747.504 0 10.75061 -1.7515e-6 -21.32852 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_001-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_003-material" target="#None_003-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_003" name="stone3_Group1_003" type="NODE">
+        <matrix sid="transform">29.68666 0 0 -486.234 0 -4.83657e-6 -29.68666 1069.237 0 29.68666 -4.83657e-6 -11.26664 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_003-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_003-material" target="#None_003-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_004" name="stone3_Group1_004" type="NODE">
+        <matrix sid="transform">18.07111 0 0 -944.9186 0 -2.94416e-6 -18.07111 432.4467 0 18.07111 -2.94416e-6 -0.1693258 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_004-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_003-material" target="#None_003-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_005" name="stone3_Group1_005" type="NODE">
+        <matrix sid="transform">6.013266 0 0 1392.42 0 -9.79685e-7 -6.013266 781.3395 0 6.013266 -9.79685e-7 -3.537309 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_005-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_003-material" target="#None_003-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_006" name="stone3_Group1_006" type="NODE">
+        <matrix sid="transform">10.75061 0 0 1389.98 0 -1.7515e-6 -10.75061 247.0211 0 10.75061 -1.7515e-6 14.08492 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_006-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_003-material" target="#None_003-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_007" name="stone3_Group1_007" type="NODE">
+        <matrix sid="transform">-18.83201 1.6605e-7 1.019206 304.2645 1.019206 3.06812e-6 18.83201 483.6826 0 18.85957 -3.07261e-6 -6.023263 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_007-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_003-material" target="#None_003-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_008" name="stone3_Group1_008" type="NODE">
+        <matrix sid="transform">10.75061 0 0 1243.592 0 -1.7515e-6 -10.75061 -189.705 0 10.75061 -1.7515e-6 14.79928 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_008-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_003-material" target="#None_003-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_009" name="stone3_Group1_009" type="NODE">
+        <matrix sid="transform">29.3416 0 0 -308.128 0 -4.78035e-6 -29.3416 -150.6681 0 29.3416 -4.78035e-6 2.643574 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_009-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_003-material" target="#None_003-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_010" name="stone3_Group1_010" type="NODE">
+        <matrix sid="transform">23.77369 0 0 -725.3357 0 -3.87323e-6 -23.77369 -209.2235 0 23.77369 -3.87323e-6 1.839272 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_010-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_003-material" target="#None_003-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_011" name="stone3_Group1_011" type="NODE">
+        <matrix sid="transform">-23.05592 -3.98611e-6 -24.46655 -1147.423 -24.46655 3.75629e-6 23.05592 471.4836 0 33.61826 -5.47711e-6 -8.327484 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_011-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_003-material" target="#None_003-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_013" name="stone3_Group1_013" type="NODE">
+        <matrix sid="transform">13.05557 -3.66597e-6 -22.50156 -1393.844 -22.50156 -2.12702e-6 -13.05557 -445.885 0 26.01477 -4.23834e-6 8.193534 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_013-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_003-material" target="#None_003-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_014" name="stone3_Group1_014" type="NODE">
+        <matrix sid="transform">16.41373 0 0 -1052.27 0 -2.67414e-6 -16.41373 -858.2131 0 16.41373 -2.67414e-6 2.391965 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_014-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_003-material" target="#None_003-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_015" name="stone3_Group1_015" type="NODE">
+        <matrix sid="transform">10.75061 0 0 1346.063 0 -1.7515e-6 -10.75061 -887.4908 0 10.75061 -1.7515e-6 6.997551 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_015-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_003-material" target="#None_003-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_016" name="stone3_Group1_016" type="NODE">
+        <matrix sid="transform">10.75061 0 0 736.1109 0 -1.7515e-6 -10.75061 -1258.342 0 10.75061 -1.7515e-6 45.12861 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_016-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_003-material" target="#None_003-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone3_Group1_017" name="stone3_Group1_017" type="NODE">
+        <matrix sid="transform">31.97435 0 0 736.1109 0 -5.20928e-6 -31.97435 -1258.342 0 31.97435 -5.20928e-6 34.87005 0 0 0 1</matrix>
+        <instance_geometry url="#stone3_Group1_017-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_003-material" target="#None_003-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_003" name="stone4_Group1_003" type="NODE">
+        <matrix sid="transform">12.66926 0 0 -179.5853 0 -2.06408e-6 -12.66926 -182.0507 0 12.66926 -2.06408e-6 8.953334 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_003-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_000" name="stone4_Group1_000" type="NODE">
+        <matrix sid="transform">12.66926 0 0 -211.3018 0 -2.06408e-6 -12.66926 352.2507 0 12.66926 -2.06408e-6 -0.981062 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_000-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_001" name="stone4_Group1_001" type="NODE">
+        <matrix sid="transform">30.13113 0 0 308.3613 0 -4.90898e-6 -30.13113 1735.579 0 30.13113 -4.90898e-6 -28.9195 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_001-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_002" name="stone4_Group1_002" type="NODE">
+        <matrix sid="transform">-8.784755 1.4873e-6 9.128972 1037.841 9.128972 1.43122e-6 8.784755 747.4872 0 12.66926 -2.06408e-6 -7.402705 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_002-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_004" name="stone4_Group1_004" type="NODE">
+        <matrix sid="transform">-8.243388 -2.35789e-6 -14.47261 1462.355 -14.47261 1.34302e-6 8.243388 366.8888 0 16.65562 -2.71355e-6 19.63709 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_004-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_005" name="stone4_Group1_005" type="NODE">
+        <matrix sid="transform">26.20805 0 0 -999.3356 0 -4.26983e-6 -26.20805 1142.724 0 26.20805 -4.26983e-6 -21.08522 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_005-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_006" name="stone4_Group1_006" type="NODE">
+        <matrix sid="transform">12.66926 0 0 -1365.296 0 -2.06408e-6 -12.66926 -516.2939 0 12.66926 -2.06408e-6 18.01579 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_006-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_007" name="stone4_Group1_007" type="NODE">
+        <matrix sid="transform">12.66926 0 0 1189.104 0 -2.06408e-6 -12.66926 -23.46835 0 12.66926 -2.06408e-6 -0.9258383 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_007-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_008" name="stone4_Group1_008" type="NODE">
+        <matrix sid="transform">12.66926 0 0 735.3143 0 -2.06408e-6 -12.66926 247.342 0 12.66926 -2.06408e-6 -7.127985 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_008-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_009" name="stone4_Group1_009" type="NODE">
+        <matrix sid="transform">7.681257 -1.64145e-6 -10.07514 862.1804 -10.07514 -1.25144e-6 -7.681257 -467.4996 0 12.66926 -2.06408e-6 8.323533 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_009-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_010" name="stone4_Group1_010" type="NODE">
+        <matrix sid="transform">12.66926 0 0 213.2115 0 -2.06408e-6 -12.66926 -521.1736 0 12.66926 -2.06408e-6 42.78386 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_010-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_011" name="stone4_Group1_011" type="NODE">
+        <matrix sid="transform">53.08788 0 0 254.0741 0 -8.64911e-6 -53.08788 -521.1736 0 53.08788 -8.64911e-6 8.120884 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_011-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_012" name="stone4_Group1_012" type="NODE">
+        <matrix sid="transform">37.92142 0 0 337.6379 0 -6.17818e-6 -37.92142 -1077.433 0 37.92142 -6.17818e-6 0.8558995 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_012-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_013" name="stone4_Group1_013" type="NODE">
+        <matrix sid="transform">-17.64016 -1.7146e-6 -10.52412 -128.3511 -10.52412 2.87395e-6 17.64016 -1431.194 0 20.54099 -3.34655e-6 6.092535 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_013-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_014" name="stone4_Group1_014" type="NODE">
+        <matrix sid="transform">12.66926 0 0 -855.3915 0 -2.06408e-6 -12.66926 -940.8076 0 12.66926 -2.06408e-6 0.2764469 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_014-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone4_Group1_015" name="stone4_Group1_015" type="NODE">
+        <matrix sid="transform">12.66926 0 0 1106.154 0 -2.06408e-6 -12.66926 -1026.198 0 12.66926 -2.06408e-6 28.52401 0 0 0 1</matrix>
+        <instance_geometry url="#stone4_Group1_015-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_004-material" target="#None_004-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone5_Group1_004" name="stone5_Group1_004" type="NODE">
+        <matrix sid="transform">10.52503 0 0 -43.36687 0 -1.71475e-6 -10.52503 -837.4525 0 10.52503 -1.71475e-6 22.31774 0 0 0 1</matrix>
+        <instance_geometry url="#stone5_Group1_004-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_005-material" target="#None_005-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone5_Group1_000" name="stone5_Group1_000" type="NODE">
+        <matrix sid="transform">15.49584 0 0 -620.0989 0 -2.52459e-6 -15.49584 -1227.073 0 15.49584 -2.52459e-6 13.82013 0 0 0 1</matrix>
+        <instance_geometry url="#stone5_Group1_000-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_005-material" target="#None_005-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone5_Group1_001" name="stone5_Group1_001" type="NODE">
+        <matrix sid="transform">7.269735 -2.36589e-6 -14.52172 -227.804 -14.52172 -1.18439e-6 -7.269735 -1086.296 0 16.23975 -2.64579e-6 14.85107 0 0 0 1</matrix>
+        <instance_geometry url="#stone5_Group1_001-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_005-material" target="#None_005-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone5_Group1_002" name="stone5_Group1_002" type="NODE">
+        <matrix sid="transform">20.66863 0 0 990.0668 0 -3.36735e-6 -20.66863 -1033.6 0 20.66863 -3.36735e-6 17.02348 0 0 0 1</matrix>
+        <instance_geometry url="#stone5_Group1_002-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_005-material" target="#None_005-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone5_Group1_003" name="stone5_Group1_003" type="NODE">
+        <matrix sid="transform">6.452366 -1.82584e-6 -11.20694 1478.972 -11.20694 -1.05122e-6 -6.452366 -714.4943 0 12.93169 -2.10684e-6 16.95822 0 0 0 1</matrix>
+        <instance_geometry url="#stone5_Group1_003-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_005-material" target="#None_005-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone5_Group1_005" name="stone5_Group1_005" type="NODE">
+        <matrix sid="transform">-16.44595 -1.31044e-6 -8.043397 1517.03 -8.043397 2.67938e-6 16.44595 722.9448 0 18.30752 -2.98267e-6 0.6685427 0 0 0 1</matrix>
+        <instance_geometry url="#stone5_Group1_005-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_005-material" target="#None_005-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone5_Group1_006" name="stone5_Group1_006" type="NODE">
+        <matrix sid="transform">-7.495374 -1.2038e-6 -7.388886 -830.8844 -7.388886 1.22115e-6 7.495374 1223.56 0 10.52503 -1.71475e-6 -14.36507 0 0 0 1</matrix>
+        <instance_geometry url="#stone5_Group1_006-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_005-material" target="#None_005-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone5_Group1_007" name="stone5_Group1_007" type="NODE">
+        <matrix sid="transform">-25.50525 -7.58943e-6 -46.58362 -863.0876 -46.58362 4.15533e-6 25.50525 -1238.53 0 53.10886 -8.65253e-6 -4.120709 0 0 0 1</matrix>
+        <instance_geometry url="#stone5_Group1_007-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_005-material" target="#None_005-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone5_Group1_008" name="stone5_Group1_008" type="NODE">
+        <matrix sid="transform">10.52503 0 0 -835.6299 0 -1.71475e-6 -10.52503 -951.6278 0 10.52503 -1.71475e-6 1.252372 0 0 0 1</matrix>
+        <instance_geometry url="#stone5_Group1_008-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_005-material" target="#None_005-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone5_Group1_009" name="stone5_Group1_009" type="NODE">
+        <matrix sid="transform">10.52503 0 0 -1419.327 0 -1.71475e-6 -10.52503 -278.2857 0 10.52503 -1.71475e-6 -0.57882 0 0 0 1</matrix>
+        <instance_geometry url="#stone5_Group1_009-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_005-material" target="#None_005-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone5_Group1_010" name="stone5_Group1_010" type="NODE">
+        <matrix sid="transform">10.52503 0 0 -1155.845 0 -1.71475e-6 -10.52503 673.1759 0 10.52503 -1.71475e-6 -9.005582 0 0 0 1</matrix>
+        <instance_geometry url="#stone5_Group1_010-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_005-material" target="#None_005-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone5_Group1_011" name="stone5_Group1_011" type="NODE">
+        <matrix sid="transform">25.02942 0 0 579.223 0 -4.07781e-6 -25.02942 412.6218 0 25.02942 -4.07781e-6 -10.48659 0 0 0 1</matrix>
+        <instance_geometry url="#stone5_Group1_011-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_005-material" target="#None_005-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone5_Group1_012" name="stone5_Group1_012" type="NODE">
+        <matrix sid="transform">-2.242111 -2.61188e-6 -16.0316 266.956 -16.0316 3.65286e-7 2.242111 638.045 0 16.18763 -2.6373e-6 -4.656588 0 0 0 1</matrix>
+        <instance_geometry url="#stone5_Group1_012-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_005-material" target="#None_005-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone5_Group1_013" name="stone5_Group1_013" type="NODE">
+        <matrix sid="transform">10.52503 0 0 386.364 0 -1.71475e-6 -10.52503 1320.17 0 10.52503 -1.71475e-6 -15.20398 0 0 0 1</matrix>
+        <instance_geometry url="#stone5_Group1_013-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_005-material" target="#None_005-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone5_Group1_014" name="stone5_Group1_014" type="NODE">
+        <matrix sid="transform">10.52503 0 0 0.5467359 0 -1.71475e-6 -10.52503 84.73339 0 10.52503 -1.71475e-6 0.2685136 0 0 0 1</matrix>
+        <instance_geometry url="#stone5_Group1_014-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_005-material" target="#None_005-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone6_Group1_005" name="stone6_Group1_005" type="NODE">
+        <matrix sid="transform">16.47593 -3.63607e-6 -22.31803 -804.3087 -22.31803 -2.68427e-6 -16.47593 -10.10419 0 27.74077 -4.51955e-6 -4.795652 0 0 0 1</matrix>
+        <instance_geometry url="#stone6_Group1_005-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_006-material" target="#None_006-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone6_Group1_000" name="stone6_Group1_000" type="NODE">
+        <matrix sid="transform">21.65697 0 0 0.5418722 0 -3.52837e-6 -21.65697 1439.424 0 21.65697 -3.52837e-6 -18.92993 0 0 0 1</matrix>
+        <instance_geometry url="#stone6_Group1_000-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_006-material" target="#None_006-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone6_Group1_001" name="stone6_Group1_001" type="NODE">
+        <matrix sid="transform">10.82849 0 0 -722.5381 0 -1.76418e-6 -10.82849 929.5295 0 10.82849 -1.76418e-6 -7.46193 0 0 0 1</matrix>
+        <instance_geometry url="#stone6_Group1_001-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_006-material" target="#None_006-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone6_Group1_002" name="stone6_Group1_002" type="NODE">
+        <matrix sid="transform">10.82849 0 0 1232.996 0 -1.76418e-6 -10.82849 168.9128 0 10.82849 -1.76418e-6 1.223648 0 0 0 1</matrix>
+        <instance_geometry url="#stone6_Group1_002-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_006-material" target="#None_006-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone6_Group1_003" name="stone6_Group1_003" type="NODE">
+        <matrix sid="transform">10.82849 0 0 1069.059 0 -1.76418e-6 -10.82849 745.6197 0 10.82849 -1.76418e-6 -5.398559 0 0 0 1</matrix>
+        <instance_geometry url="#stone6_Group1_003-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_006-material" target="#None_006-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone6_Group1_004" name="stone6_Group1_004" type="NODE">
+        <matrix sid="transform">12.33675 -1.47507e-6 -9.053934 703.2882 -9.053934 -2.00991e-6 -12.33675 -706.3934 0 15.30259 -2.49311e-6 23.68046 0 0 0 1</matrix>
+        <instance_geometry url="#stone6_Group1_004-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_006-material" target="#None_006-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone6_Group1_006" name="stone6_Group1_006" type="NODE">
+        <matrix sid="transform">-4.491441 -2.17117e-6 -13.32656 117.6396 -13.32656 7.31748e-7 4.491441 -852.7657 0 14.06308 -2.29117e-6 23.77179 0 0 0 1</matrix>
+        <instance_geometry url="#stone6_Group1_006-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_006-material" target="#None_006-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone6_Group1_007" name="stone6_Group1_007" type="NODE">
+        <matrix sid="transform">10.82849 0 0 -637.6413 0 -1.76418e-6 -10.82849 -639.0622 0 10.82849 -1.76418e-6 15.84725 0 0 0 1</matrix>
+        <instance_geometry url="#stone6_Group1_007-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_006-material" target="#None_006-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone6_Group1_008" name="stone6_Group1_008" type="NODE">
+        <matrix sid="transform">46.77758 0 0 -1272.897 0 -7.62104e-6 -46.77758 -580.5133 0 46.77758 -7.62104e-6 3.004659 0 0 0 1</matrix>
+        <instance_geometry url="#stone6_Group1_008-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_006-material" target="#None_006-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone6_Group1_010" name="stone6_Group1_010" type="NODE">
+        <matrix sid="transform">10.82849 0 0 439.6587 0 -1.76418e-6 -10.82849 -1066.469 0 10.82849 -1.76418e-6 17.01638 0 0 0 1</matrix>
+        <instance_geometry url="#stone6_Group1_010-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_006-material" target="#None_006-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone6_Group1_011" name="stone6_Group1_011" type="NODE">
+        <matrix sid="transform">10.82849 0 0 -418.2285 0 -1.76418e-6 -10.82849 -958.7252 0 10.82849 -1.76418e-6 8.715363 0 0 0 1</matrix>
+        <instance_geometry url="#stone6_Group1_011-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_006-material" target="#None_006-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone6_Group1_012" name="stone6_Group1_012" type="NODE">
+        <matrix sid="transform">10.82849 0 0 -1082.989 0 -1.76418e-6 -10.82849 295.5789 0 10.82849 -1.76418e-6 -3.088212 0 0 0 1</matrix>
+        <instance_geometry url="#stone6_Group1_012-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_006-material" target="#None_006-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone6_Group1_013" name="stone6_Group1_013" type="NODE">
+        <matrix sid="transform">-14.8078 -2.77652e-6 -17.04216 685.6404 -17.04216 2.4125e-6 14.8078 -1396.457 0 22.57667 -3.67821e-6 45.51358 0 0 0 1</matrix>
+        <instance_geometry url="#stone6_Group1_013-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_006-material" target="#None_006-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone6_Group1_014" name="stone6_Group1_014" type="NODE">
+        <matrix sid="transform">33.62047 0 0 1314.443 0 -5.47747e-6 -33.62047 -208.5823 0 33.62047 -5.47747e-6 16.21215 0 0 0 1</matrix>
+        <instance_geometry url="#stone6_Group1_014-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_006-material" target="#None_006-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone7_Group1_006" name="stone7_Group1_006" type="NODE">
+        <matrix sid="transform">19.45531 0 0 -43.36687 0 -3.16967e-6 -19.45531 725.4681 0 19.45531 -3.16967e-6 -18.33176 0 0 0 1</matrix>
+        <instance_geometry url="#stone7_Group1_006-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_007-material" target="#None_007-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone7_Group1_000" name="stone7_Group1_000" type="NODE">
+        <matrix sid="transform">-5.500366 -3.04036e-6 -18.66159 578.658 -18.66159 8.96123e-7 5.500366 1386.522 0 19.45531 -3.16967e-6 -19.81336 0 0 0 1</matrix>
+        <instance_geometry url="#stone7_Group1_000-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_007-material" target="#None_007-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone7_Group1_001" name="stone7_Group1_001" type="NODE">
+        <matrix sid="transform">-4.210138 -3.09457e-6 -18.99431 -684.9062 -18.99431 6.85919e-7 4.210138 1106.001 0 19.45531 -3.16967e-6 -17.33781 0 0 0 1</matrix>
+        <instance_geometry url="#stone7_Group1_001-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_007-material" target="#None_007-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone7_Group1_002" name="stone7_Group1_002" type="NODE">
+        <matrix sid="transform">31.13925 0 0 -1482.562 0 -5.07323e-6 -31.13925 122.9578 0 31.13925 -5.07323e-6 -9.186369 0 0 0 1</matrix>
+        <instance_geometry url="#stone7_Group1_002-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_007-material" target="#None_007-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone7_Group1_003" name="stone7_Group1_003" type="NODE">
+        <matrix sid="transform">9.369126 0 0 -704.4207 0 -1.52642e-6 -9.369126 27.82459 0 9.369126 -1.52642e-6 7.371533 0 0 0 1</matrix>
+        <instance_geometry url="#stone7_Group1_003-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_007-material" target="#None_007-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone7_Group1_004" name="stone7_Group1_004" type="NODE">
+        <matrix sid="transform">19.45531 0 0 1288.498 0 -3.16967e-6 -19.45531 359.5712 0 19.45531 -3.16967e-6 18.05818 0 0 0 1</matrix>
+        <instance_geometry url="#stone7_Group1_004-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_007-material" target="#None_007-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone7_Group1_005" name="stone7_Group1_005" type="NODE">
+        <matrix sid="transform">4.598258 -3.07987e-6 -18.9041 922.601 -18.9041 -7.49151e-7 -4.598258 -211.2281 0 19.45531 -3.16967e-6 15.58783 0 0 0 1</matrix>
+        <instance_geometry url="#stone7_Group1_005-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_007-material" target="#None_007-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone7_Group1_008" name="stone7_Group1_008" type="NODE">
+        <matrix sid="transform">5.573736 3.03681e-6 18.63981 1017.734 18.63981 -9.08077e-7 -5.573736 -984.4903 0 19.45531 -3.16967e-6 5.553047 0 0 0 1</matrix>
+        <instance_geometry url="#stone7_Group1_008-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_007-material" target="#None_007-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone7_Group1_009" name="stone7_Group1_009" type="NODE">
+        <matrix sid="transform">1.406525 -3.16138e-6 -19.4044 544.5075 -19.4044 -2.29152e-7 -1.406525 -1011.323 0 19.45531 -3.16967e-6 13.8061 0 0 0 1</matrix>
+        <instance_geometry url="#stone7_Group1_009-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_007-material" target="#None_007-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone7_Group1_010" name="stone7_Group1_010" type="NODE">
+        <matrix sid="transform">43.68053 0 0 -672.7097 0 -7.11646e-6 -43.68053 -1211.346 0 43.68053 -7.11646e-6 11.62217 0 0 0 1</matrix>
+        <instance_geometry url="#stone7_Group1_010-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_007-material" target="#None_007-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone7_Group1_011" name="stone7_Group1_011" type="NODE">
+        <matrix sid="transform">-11.9611 -2.49987e-6 -15.34409 -1138.619 -15.34409 1.94871e-6 11.9611 -891.7964 0 19.45531 -3.16967e-6 -2.871781 0 0 0 1</matrix>
+        <instance_geometry url="#stone7_Group1_011-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_007-material" target="#None_007-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="stone7_Group1_013" name="stone7_Group1_013" type="NODE">
+        <matrix sid="transform">19.45531 0 0 -1021.532 0 -3.16967e-6 -19.45531 -411.2517 0 19.45531 -3.16967e-6 1.299087 0 0 0 1</matrix>
+        <instance_geometry url="#stone7_Group1_013-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_007-material" target="#None_007-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="monolith" name="monolith" type="NODE">
+        <matrix sid="transform">-0.345653 2.35757e-6 14.47064 243.4883 14.47064 5.6314e-8 0.345653 -1368.911 0 14.47477 -2.35824e-6 32.17049 0 0 0 1</matrix>
+        <instance_geometry url="#monolith-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_008-material" target="#None_008-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="terrain" name="terrain" type="NODE">
+        <matrix sid="transform">223.0894 0 0 -43.36687 0 -3.63459e-5 -223.0894 -138.469 0 223.0894 -3.63459e-5 -151.9927 0 0 0 1</matrix>
+        <instance_geometry url="#terrain-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="None_009-material" target="#None_009-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>

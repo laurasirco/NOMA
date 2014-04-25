@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<noi:DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:noi="NOISchema.xsd">
+<noi:VERSION info_1="2004" info_2="2004.0" info_3="" />
+<noi:MODEL_SECTION>
+<noi:BASIS_LINE3D>
+<noi:UUID drawingId="00000000-0000-0000-0000-000000000000" elementId="0" />
+<noi:NAMED_UUID name="Polyline" /><noi:GEOMETRY>
+<noi:GEO_POLYHEDRON3D orientation="e_POSITIVE" dimension="e_HAS_EDGES">
+<noi:GEO_POINT_LIST_3D>
+<noi:GEO_POINT x="171.012" y="350.87" z="0" />
+<noi:GEO_POINT x="62.816" y="404.7" z="0" />
+</noi:GEO_POINT_LIST_3D>
+<noi:GEO_EDGE_LIST>
+<noi:GEO_EDGE e1="1" e2="2" />
+</noi:GEO_EDGE_LIST>
+</noi:GEO_POLYHEDRON3D>
+</noi:GEOMETRY>
+<noi:COMMON_STYLE alpha="0" r="125" g="125" b="125" layerId="0" strokeId="1" penId="2" colorByLayer="false" strokeByLayer="false" penByLayer="false" byLayerAllowed="false" useConstructionLineMode="false" drawOrder="15" />
+</noi:BASIS_LINE3D>
+<noi:BASIS_LINE3D>
+<noi:UUID drawingId="00000000-0000-0000-0000-000000000000" elementId="1" />
+<noi:NAMED_UUID name="Polyline" /><noi:GEOMETRY>
+<noi:GEO_POLYHEDRON3D orientation="e_POSITIVE" dimension="e_HAS_EDGES">
+<noi:GEO_POINT_LIST_3D>
+<noi:GEO_POINT x="246.486" y="256.628" z="0" />
+<noi:GEO_POINT x="171.012" y="350.87" z="0" />
+<noi:GEO_POINT x="197.701" y="445.057" z="0" />
+</noi:GEO_POINT_LIST_3D>
+<noi:GEO_EDGE_LIST>
+<noi:GEO_EDGE e1="1" e2="2" />
+<noi:GEO_EDGE e1="2" e2="3" />
+</noi:GEO_EDGE_LIST>
+</noi:GEO_POLYHEDRON3D>
+</noi:GEOMETRY>
+<noi:COMMON_STYLE alpha="0" r="125" g="125" b="125" layerId="0" strokeId="1" penId="2" colorByLayer="false" strokeByLayer="false" penByLayer="false" byLayerAllowed="false" useConstructionLineMode="false" drawOrder="15" />
+</noi:BASIS_LINE3D>
+<noi:BASIS_LINE3D>
+<noi:UUID drawingId="00000000-0000-0000-0000-000000000000" elementId="2" />
+<noi:NAMED_UUID name="Polyline" /><noi:GEOMETRY>
+<noi:GEO_POLYHEDRON3D orientation="e_POSITIVE" dimension="e_HAS_EDGES">
+<noi:GEO_POINT_LIST_3D>
+<noi:GEO_POINT x="338.783" y="461.299" z="0" />
+<noi:GEO_POINT x="197.701" y="445.057" z="0" />
+<noi:GEO_POINT x="62.816" y="404.7" z="0" />
+<noi:GEO_POINT x="23.28" y="270.156" z="0" />
+<noi:GEO_POINT x="140.653" y="109.154" z="0" />
+</noi:GEO_POINT_LIST_3D>
+<noi:GEO_EDGE_LIST>
+<noi:GEO_EDGE e1="1" e2="2" />
+<noi:GEO_EDGE e1="2" e2="3" />
+<noi:GEO_EDGE e1="3" e2="4" />
+<noi:GEO_EDGE e1="4" e2="5" />
+</noi:GEO_EDGE_LIST>
+</noi:GEO_POLYHEDRON3D>
+</noi:GEOMETRY>
+<noi:COMMON_STYLE alpha="0" r="125" g="125" b="125" layerId="0" strokeId="1" penId="2" colorByLayer="false" strokeByLayer="false" penByLayer="false" byLayerAllowed="false" useConstructionLineMode="false" drawOrder="15" />
+</noi:BASIS_LINE3D>
+<noi:BASIS_LINE3D>
+<noi:UUID drawingId="00000000-0000-0000-0000-000000000000" elementId="3" />
+<noi:NAMED_UUID name="Polyline" /><noi:GEOMETRY>
+<noi:GEO_POLYHEDRON3D orientation="e_POSITIVE" dimension="e_HAS_EDGES">
+<noi:GEO_POINT_LIST_3D>
+<noi:GEO_POINT x="140.653" y="109.154" z="0" />
+<noi:GEO_POINT x="246.486" y="256.628" z="0" />
+<noi:GEO_POINT x="336.18" y="306.924" z="0" />
+<noi:GEO_POINT x="398.893" y="425.737" z="0" />
+<noi:GEO_POINT x="437.541" y="468.014" z="0" />
+<noi:GEO_POINT x="420.769" y="519.767" z="0" />
+<noi:GEO_POINT x="362.959" y="514.465" z="0" />
+<noi:GEO_POINT x="338.783" y="461.299" z="0" />
+<noi:GEO_POINT x="398.893" y="425.737" z="0" />
+</noi:GEO_POINT_LIST_3D>
+<noi:GEO_EDGE_LIST>
+<noi:GEO_EDGE e1="1" e2="2" />
+<noi:GEO_EDGE e1="2" e2="3" />
+<noi:GEO_EDGE e1="3" e2="4" />
+<noi:GEO_EDGE e1="4" e2="5" />
+<noi:GEO_EDGE e1="5" e2="6" />
+<noi:GEO_EDGE e1="6" e2="7" />
+<noi:GEO_EDGE e1="7" e2="8" />
+<noi:GEO_EDGE e1="8" e2="9" />
+</noi:GEO_EDGE_LIST>
+</noi:GEO_POLYHEDRON3D>
+</noi:GEOMETRY>
+<noi:COMMON_STYLE alpha="0" r="125" g="125" b="125" layerId="0" strokeId="1" penId="2" colorByLayer="false" strokeByLayer="false" penByLayer="false" byLayerAllowed="false" useConstructionLineMode="false" drawOrder="15" />
+</noi:BASIS_LINE3D>
+<noi:BASIS_LINE3D>
+<noi:UUID drawingId="00000000-0000-0000-0000-000000000000" elementId="4" />
+<noi:NAMED_UUID name="Polyline" /><noi:GEOMETRY>
+<noi:GEO_POLYHEDRON3D orientation="e_POSITIVE" dimension="e_HAS_EDGES">
+<noi:GEO_POINT_LIST_3D>
+<noi:GEO_POINT x="-355.873" y="-243.28" z="0" />
+<noi:GEO_POINT x="-341.449" y="-130.866" z="0" />
+<noi:GEO_POINT x="-247.746" y="-36.301" z="0" />
+</noi:GEO_POINT_LIST_3D>
+<noi:GEO_EDGE_LIST>
+<noi:GEO_EDGE e1="1" e2="2" />
+<noi:GEO_EDGE e1="2" e2="3" />
+</noi:GEO_EDGE_LIST>
+</noi:GEO_POLYHEDRON3D>
+</noi:GEOMETRY>
+<noi:COMMON_STYLE alpha="0" r="125" g="125" b="125" layerId="0" strokeId="1" penId="2" colorByLayer="false" strokeByLayer="false" penByLayer="false" byLayerAllowed="false" useConstructionLineMode="false" drawOrder="15" />
+</noi:BASIS_LINE3D>
+<noi:BASIS_LINE3D>
+<noi:UUID drawingId="00000000-0000-0000-0000-000000000000" elementId="5" />
+<noi:NAMED_UUID name="Polyline" /><noi:GEOMETRY>
+<noi:GEO_POLYHEDRON3D orientation="e_POSITIVE" dimension="e_HAS_EDGES">
+<noi:GEO_POINT_LIST_3D>
+<noi:GEO_POINT x="-247.746" y="-36.301" z="0" />
+<noi:GEO_POINT x="140.653" y="109.154" z="0" />
+<noi:GEO_POINT x="-35.355" y="-68.509" z="0" />
+</noi:GEO_POINT_LIST_3D>
+<noi:GEO_EDGE_LIST>
+<noi:GEO_EDGE e1="1" e2="2" />
+<noi:GEO_EDGE e1="2" e2="3" />
+</noi:GEO_EDGE_LIST>
+</noi:GEO_POLYHEDRON3D>
+</noi:GEOMETRY>
+<noi:COMMON_STYLE alpha="0" r="125" g="125" b="125" layerId="0" strokeId="1" penId="2" colorByLayer="false" strokeByLayer="false" penByLayer="false" byLayerAllowed="false" useConstructionLineMode="false" drawOrder="15" />
+</noi:BASIS_LINE3D>
+<noi:BASIS_LINE3D>
+<noi:UUID drawingId="00000000-0000-0000-0000-000000000000" elementId="6" />
+<noi:NAMED_UUID name="Polyline" /><noi:GEOMETRY>
+<noi:GEO_POLYHEDRON3D orientation="e_POSITIVE" dimension="e_HAS_EDGES">
+<noi:GEO_POINT_LIST_3D>
+<noi:GEO_POINT x="-92.084" y="-202.332" z="0" />
+<noi:GEO_POINT x="-247.746" y="-36.301" z="0" />
+</noi:GEO_POINT_LIST_3D>
+<noi:GEO_EDGE_LIST>
+<noi:GEO_EDGE e1="1" e2="2" />
+</noi:GEO_EDGE_LIST>
+</noi:GEO_POLYHEDRON3D>
+</noi:GEOMETRY>
+<noi:COMMON_STYLE alpha="0" r="125" g="125" b="125" layerId="0" strokeId="1" penId="2" colorByLayer="false" strokeByLayer="false" penByLayer="false" byLayerAllowed="false" useConstructionLineMode="false" drawOrder="15" />
+</noi:BASIS_LINE3D>
+<noi:BASIS_LINE3D>
+<noi:UUID drawingId="00000000-0000-0000-0000-000000000000" elementId="7" />
+<noi:NAMED_UUID name="Polyline" /><noi:GEOMETRY>
+<noi:GEO_POLYHEDRON3D orientation="e_POSITIVE" dimension="e_HAS_EDGES">
+<noi:GEO_POINT_LIST_3D>
+<noi:GEO_POINT x="-176.612" y="-252.807" z="0" />
+<noi:GEO_POINT x="-92.084" y="-202.332" z="0" />
+<noi:GEO_POINT x="-35.355" y="-68.509" z="0" />
+<noi:GEO_POINT x="-247.746" y="-36.301" z="0" />
+<noi:GEO_POINT x="-242.871" y="-217.877" z="0" />
+</noi:GEO_POINT_LIST_3D>
+<noi:GEO_EDGE_LIST>
+<noi:GEO_EDGE e1="1" e2="2" />
+<noi:GEO_EDGE e1="2" e2="3" />
+<noi:GEO_EDGE e1="3" e2="4" />
+<noi:GEO_EDGE e1="4" e2="5" />
+</noi:GEO_EDGE_LIST>
+</noi:GEO_POLYHEDRON3D>
+</noi:GEOMETRY>
+<noi:COMMON_STYLE alpha="0" r="125" g="125" b="125" layerId="0" strokeId="1" penId="2" colorByLayer="false" strokeByLayer="false" penByLayer="false" byLayerAllowed="false" useConstructionLineMode="false" drawOrder="15" />
+</noi:BASIS_LINE3D>
+<noi:BASIS_LINE3D>
+<noi:UUID drawingId="00000000-0000-0000-0000-000000000000" elementId="8" />
+<noi:NAMED_UUID name="Polyline" /><noi:GEOMETRY>
+<noi:GEO_POLYHEDRON3D orientation="e_POSITIVE" dimension="e_HAS_EDGES">
+<noi:GEO_POINT_LIST_3D>
+<noi:GEO_POINT x="-355.873" y="-243.28" z="0" />
+<noi:GEO_POINT x="-404.886" y="-322.213" z="0" />
+<noi:GEO_POINT x="-327.282" y="-363.494" z="0" />
+<noi:GEO_POINT x="-235.609" y="-350.792" z="0" />
+<noi:GEO_POINT x="-176.612" y="-252.807" z="0" />
+<noi:GEO_POINT x="-242.871" y="-217.877" z="0" />
+<noi:GEO_POINT x="-286.892" y="-271.406" z="0" />
+<noi:GEO_POINT x="-355.873" y="-243.28" z="0" />
+<noi:GEO_POINT x="-327.282" y="-363.494" z="0" />
+</noi:GEO_POINT_LIST_3D>
+<noi:GEO_EDGE_LIST>
+<noi:GEO_EDGE e1="1" e2="2" />
+<noi:GEO_EDGE e1="2" e2="3" />
+<noi:GEO_EDGE e1="3" e2="4" />
+<noi:GEO_EDGE e1="4" e2="5" />
+<noi:GEO_EDGE e1="5" e2="6" />
+<noi:GEO_EDGE e1="6" e2="7" />
+<noi:GEO_EDGE e1="7" e2="8" />
+<noi:GEO_EDGE e1="8" e2="9" />
+</noi:GEO_EDGE_LIST>
+</noi:GEO_POLYHEDRON3D>
+</noi:GEOMETRY>
+<noi:COMMON_STYLE alpha="0" r="125" g="125" b="125" layerId="0" strokeId="1" penId="2" colorByLayer="false" strokeByLayer="false" penByLayer="false" byLayerAllowed="false" useConstructionLineMode="false" drawOrder="15" />
+</noi:BASIS_LINE3D>
+</noi:MODEL_SECTION>
+</noi:DOCUMENT>
