@@ -86,6 +86,7 @@ OBJECTFILES= \
 	${OBJECTDIR}/sources/RegisterState.o \
 	${OBJECTDIR}/sources/ResourceManager.o \
 	${OBJECTDIR}/sources/ScriptLine.o \
+	${OBJECTDIR}/sources/ServerConnector.o \
 	${OBJECTDIR}/sources/StandState.o \
 	${OBJECTDIR}/sources/State.o \
 	${OBJECTDIR}/sources/SteeringBehaviors.o \
@@ -398,6 +399,11 @@ ${OBJECTDIR}/sources/ScriptLine.o: sources/ScriptLine.cpp
 	${MKDIR} -p ${OBJECTDIR}/sources
 	${RM} $@.d
 	$(COMPILE.cc) -g -m32 -IIrrlicht/include -I/usr/X11R6/include -O3 -ffast-math -std=c++0x -MMD -MP -MF $@.d -o ${OBJECTDIR}/sources/ScriptLine.o sources/ScriptLine.cpp
+
+${OBJECTDIR}/sources/ServerConnector.o: sources/ServerConnector.cpp 
+	${MKDIR} -p ${OBJECTDIR}/sources
+	${RM} $@.d
+	$(COMPILE.cc) -g -m32 -IIrrlicht/include -I/usr/X11R6/include -O3 -ffast-math -std=c++0x -MMD -MP -MF $@.d -o ${OBJECTDIR}/sources/ServerConnector.o sources/ServerConnector.cpp
 
 ${OBJECTDIR}/sources/StandState.o: sources/StandState.cpp 
 	${MKDIR} -p ${OBJECTDIR}/sources

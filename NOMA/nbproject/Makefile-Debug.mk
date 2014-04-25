@@ -86,6 +86,7 @@ OBJECTFILES= \
 	${OBJECTDIR}/sources/RegisterState.o \
 	${OBJECTDIR}/sources/ResourceManager.o \
 	${OBJECTDIR}/sources/ScriptLine.o \
+	${OBJECTDIR}/sources/ServerConnector.o \
 	${OBJECTDIR}/sources/StandState.o \
 	${OBJECTDIR}/sources/State.o \
 	${OBJECTDIR}/sources/SteeringBehaviors.o \
@@ -396,6 +397,11 @@ ${OBJECTDIR}/sources/ScriptLine.o: sources/ScriptLine.cpp
 	${MKDIR} -p ${OBJECTDIR}/sources
 	${RM} $@.d
 	$(COMPILE.cc) -g -m32 -arch i386 -IIrrlicht/include -IIrrklang/include -MMD -MP -MF $@.d -o ${OBJECTDIR}/sources/ScriptLine.o sources/ScriptLine.cpp
+
+${OBJECTDIR}/sources/ServerConnector.o: sources/ServerConnector.cpp 
+	${MKDIR} -p ${OBJECTDIR}/sources
+	${RM} $@.d
+	$(COMPILE.cc) -g -m32 -arch i386 -IIrrlicht/include -IIrrklang/include -MMD -MP -MF $@.d -o ${OBJECTDIR}/sources/ServerConnector.o sources/ServerConnector.cpp
 
 ${OBJECTDIR}/sources/StandState.o: sources/StandState.cpp 
 	${MKDIR} -p ${OBJECTDIR}/sources
